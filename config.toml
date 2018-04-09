@@ -1,6 +1,6 @@
 baseurl                 = "/"               # Your domain name. Must end with "/"
 languageCode            = "en-us"
-title                   = "Kevinliu"
+title                   = "Kevin liu"
 theme                   = "sam"
 publishDir              = "docs"
 # googleAnalytics       = "xxx"             # Tracking code, eg. "UA-111111111-1"
@@ -14,7 +14,7 @@ publishDir              = "docs"
     homepage            = "main"                        # What to call the home page link
     galleryFolder       = "images/"                     # Where you've put your images, after "/content/gallery/"
     clickablePhotos     = true                          # Allow links to the full size images
-    footerText          = "Sam, a theme for Hugo."
+    footerText          = "Powered by Hugo"
 
 # Metadata
     description         = "A new Hugo site."            # Max 160 characters show in search results
@@ -26,8 +26,12 @@ publishDir              = "docs"
     text = "writing"
 
 [[params.mainMenu]]
-    link = "/gallery"
-    text = "gallery"
+    link = "/contact"
+    text = "contact"
+
+# [[params.mainMenu]]
+#   link = "/gallery"
+#   text = "gallery"
 
 [[params.mainMenu]]
     link = "/about"
