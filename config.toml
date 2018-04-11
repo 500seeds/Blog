@@ -8,9 +8,10 @@ publishDir              = "docs"
 [params]
     dateform            = "Mon Jan 02, 2006"
     dateformfull        = "Mon Jan 2 2006 15:04:05 EST"
+    dateformArchive     = "Jan 02, 2006"
     favicon             = "/sam.ico"
     pygmentsStyle       = "monokai"                     # https://help.farbox.com/pygments.html
-    pygmentsCodefences  = true
+    pygmentsCodefences  = true                          # Syntax Highlighting ( https://gohugo.io/content-management/syntax-highlighting/ )
     homepage            = "main"                        # What to call the home page link
     galleryFolder       = "images/"                     # Where you've put your images, after "/content/gallery/"
     clickablePhotos     = true                          # Allow links to the full size images
@@ -37,4 +38,3 @@ publishDir              = "docs"
 [[params.mainMenu]]
     link = "/about"
     text = "who is Kevin?"
-    
