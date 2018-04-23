@@ -27,9 +27,9 @@ publishDir              = "docs"
     link = "/posts"
     text = "writing"
 
-[[params.mainMenu]]
-    link = "/project"
-    text = "project"
+# [[params.mainMenu]]
+#     link = "/project"
+#     text = "project"
 
 # [[params.mainMenu]]
 #   link = "/gallery"
