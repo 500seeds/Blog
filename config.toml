@@ -38,7 +38,3 @@ publishDir              = "docs"
 [[params.mainMenu]]
     link = "/about"
     text = "who is Kevin?"
-
-[[params.mainMenu]]
-    link = "/credits"
-    text = "credits"

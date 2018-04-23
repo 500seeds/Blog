@@ -12,3 +12,14 @@ I also have a simple responsive gallery built with CSS grid. It'll look great on
 I'm built and maintained by [Vicky Lai](https://vickylai.io). Here's her [GitHub](https://github.com/hivickylai).
 
 This page uses the default `single.html` template.
+
+
+## Credits
+
+This is where it all begins...
+
+- [Hugo](https://gohugo.io/)
+
+- [Theme Sam by Vicky](https://github.com/hivickylai)
+
+- [Deployment &Hosting](https://www.netlify.com/)
