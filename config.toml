@@ -31,14 +31,11 @@ publishDir              = "docs"
     link = "/read"
     text = "reading"
 
-# [[params.mainMenu]]
-#     link = "/project"
-#     text = "project"
-
-# [[params.mainMenu]]
-#   link = "/gallery"
-#   text = "gallery"
 
 [[params.mainMenu]]
     link = "/about"
     text = "who is Kevin?"
+
+# [[params.mainMenu]]
+#     link = "/project"
+#     text = "project"

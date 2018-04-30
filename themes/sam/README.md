@@ -1,5 +1,4 @@
 # <a href="https://vickylai.io/call-me-sam/" target="_blank" rel="noopener">Call me Sam: a theme for Hugo</a>
-
 ![Main page screenshot](https://github.com/hivickylai/hugo-theme-sam/blob/master/images/screenshot.png)
 
 Sam is a Simple and Minimalist theme for Hugo. It lets you categorize and showcase your content the way you want to.
