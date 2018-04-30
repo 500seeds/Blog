@@ -19,7 +19,6 @@ with post date
 {{ range after 1 .Site.Params.mainMenu }}
 &#183; <a href="{{ .link }}">{{ .text }}</a>{{ end }}
 &#183; <a href="{{.Site.BaseURL}}">{{ .Site.Params.homepage }}</a></p></div>{{ end }}<div class="section footer">{{ partial "footer.html" . }}</div></div></body>
-
 If showdate
 {{ if .Params.showDate }}
 {{ .Date.Format (.Site.Params.dateform | default "Mon Jan 02, 2006")}} --
